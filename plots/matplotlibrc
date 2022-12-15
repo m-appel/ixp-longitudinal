@@ -1,0 +1,15 @@
+axes.grid: True
+axes.grid.axis: both
+axes.grid.which: both
+axes.spines.top: False
+axes.spines.right: False
+figure.dpi: 240
+figure.figsize: 6.6, 4.0  # Default: 6.4, 4.8
+figure.frameon: False
+font.size: 14
+grid.linestyle: --
+legend.borderpad: 0
+legend.frameon: False
+pdf.fonttype: 42
+xtick.direction: in
+ytick.direction: in
